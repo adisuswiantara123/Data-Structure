@@ -1,0 +1,27 @@
+====================================================================================
+Nama: Alin
+Usia: 17
+Kepuasan:
+Ruang rawat inap tertata rapi dan bersih(1-4): 4
+Memiliki alat-alat medis yang cukup lengkap (1-4): 4
+Kursi roda/Trolli tersedia di kantor penerimaan untuk membawa pasien ke ruang rawat inap(1-4): 4
+Tempat tidur telah disiapkan dalam keadaan rapi, bersih dan siap pakai(1-4): 4
+Alat makan dan minum bersih dan baik(1-4): 4
+Keramahan perawat(1-4): 4
+Penampilan perawat bersih dan rapi(1-4): 4
+Perawat yang merawat Anda tanggap terhadap pertanyaan atau keluhan Anda(1-4): 4
+Perawat memberikan kesempatan bertanya kepada pasien.(1-4): 4
+Perawat memberikan pengetahuan dan penjelasan perawatan.(1-4): 4
+Kecepatan perawat membantu.(1-4): 4
+Menjelaskan dan meminta persetujuan tentang tindakan-tindakan perawat yang dilakukan.(1-4): 4
+Memenuhi kebutuhan pasien.(1-4):4
+Selalu melakukan kunjungan ke kamar pasien secara teratur pada saat (aplusan/ganti shif) (1-4): 4
+Perawat melaporkan secara detail perubahan pasien kepada Dokter sewaktu melakukan kunjungan (1-4): 4
+Prosedur penerimaan pasien dilayani secara cepat dan tidak berbelit-belit.(1-4): 4
+Perawat datang tepat waktu (1-4): 4
+Kesiapan perawat melayani pasien (1-4): 4
+Perawat bertindak cepat (1-4):4
+Perawat melaporkan segala detail perubahan pasien kepada Dokter sewaktu melakukan kunjungan (1-4): 4
+Perawat selalu memberi obat pasien sesuai prosedur pemberian obat (1-4) :4
+Perawat segera menghubungi Dokter mengenai obat dan makanan pasien(1-4) :4
+Perawat memperhatikan keluhan keluarga pasien(1-4): 4

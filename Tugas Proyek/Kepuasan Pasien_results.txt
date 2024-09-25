@@ -1,0 +1,21 @@
+Survey Name: Kepuasan Pasien
+Q1: Seberapa puas Anda dengan pelayanan medis yang Anda terima selama kunjungan ke rumah sakit?
+A: 7
+Q2: Apakah staf medis memberikan penjelasan yang memadai tentang kondisi kesehatan Anda dan pengobatan yang Anda terima?
+A: 
+Q3: Bagaimana pendapat Anda tentang waktu tunggu di rumah sakit sebelum mendapatkan perawatan?
+A: 
+Q4: Apakah Anda merasa diperlakukan dengan hormat dan perhatian oleh staf medis?
+A: 
+Q5: Sejauh mana Anda merasa informasi medis Anda dijelaskan dengan baik?
+A: 
+Q6: Bagaimana pendapat Anda tentang kebersihan dan sanitasi di fasilitas rumah sakit?
+A: 
+Q7: Apakah Anda puas dengan ketersediaan fasilitas penunjang seperti parkir, toilet, dan ruang tunggu?
+A: 
+Q8: Sejauh mana Anda merasa bahwa perawatan medis yang Anda terima efektif dalam memperbaiki kondisi kesehatan Anda?
+A: 
+Q9: Apakah Anda puas dengan komunikasi antara dokter, perawat, dan tim medis lainnya?
+A: 
+Q10: Apakah Anda merasa bahwa rumah sakit memberikan dukungan yang cukup dalam hal tindak lanjut setelah perawatan?
+A: 

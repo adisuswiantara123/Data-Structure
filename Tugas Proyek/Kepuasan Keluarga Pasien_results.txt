@@ -1,0 +1,21 @@
+Survey Name: Kepuasan Keluarga Pasien
+Q1: Sejauh mana Anda merasa bahwa staf medis di rumah sakit memberikan informasi yang cukup kepada keluarga pasien tentang kondisi dan perawatan pasien?
+A: asdf
+Q2: Bagaimana pendapat Anda tentang kemampuan keluarga pasien untuk berkomunikasi dengan staf medis dan mendapatkan jawaban atas pertanyaan mereka?
+A: adf
+Q3: Apakah Anda merasa bahwa keluarga pasien diberikan kesempatan untuk terlibat dalam keputusan perawatan pasien?
+A: sdf
+Q4: Bagaimana pengalaman Anda dengan dukungan emosional yang diberikan kepada keluarga pasien dalam situasi kritis?
+A: asdf
+Q5: Sejauh mana Anda merasa bahwa fasilitas ruang tunggu dan area keluarga di rumah sakit nyaman dan mendukung?
+A: sdf
+Q6: Apakah Anda merasa bahwa rumah sakit memberikan informasi yang cukup kepada keluarga pasien tentang hak dan tanggung jawab mereka?
+A: 
+Q7: Bagaimana pendapat Anda tentang akses keluarga pasien terhadap informasi medis pasien dan catatan medis?
+A: df
+Q8: Sejauh mana Anda merasa bahwa rumah sakit memberikan dukungan dalam hal tindak lanjut pasien setelah perawatan di rumah sakit?
+A: sf
+Q9: Apakah Anda pernah mengalami kendala atau masalah dalam berkomunikasi dengan staf medis atau administrasi rumah sakit? Jika ya, jelaskan.
+A: 
+Q10: Bagaimana tingkat kepuasan Anda secara keseluruhan terhadap pelayanan dan perhatian yang diberikan kepada keluarga pasien di rumah sakit?
+A: df

@@ -1,0 +1,8 @@
+admin admin123 rumah sakit uad 2002-12-11 Pria -
+Rafif Rafif002 RafifGhanteng 2002-07-22 Pria - O- BPJS
+Adi Adikeren443 AdisUs 2004-10-02 Pria Radang O- Non-BPJS
+Kip Kip Kip 2004-10-18 Pria Kegagalan O+ BPJS
+Kelepon Ijo KeleponJioo 2000-12-01 Wanita - AB BPJS
+Siti Marsinah SitiMarsinah 2006-08-12 Wanita - B+ Non-BPJS
+Dzaky Budsong AlBudsowi 2012-12-12 Pria - O- BPJS
+Haki Kimi Hakimi 2004-10-18 Pria - O+ BPJS

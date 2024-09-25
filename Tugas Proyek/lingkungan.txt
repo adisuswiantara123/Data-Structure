@@ -1,0 +1,25 @@
+Lokasi              |Suhu (C)  |Kelembapan (%) |Kualitas Udara      
+------------------------------------------------------------
+Luar Rumah Sakit    |33        |53             |0.8                  (Tidak Baik)
+Parkiran            |32        |50             |0.8                  (Tidak Baik)
+Kantin              |30        |55             |0.8                  (Tidak Baik)
+Dalam Rumah Sakit   |30        |55             |0.5                  (Baik)
+Ruang Tunggu        |31        |60             |0.6                  (Tidak Baik)
+Apotek              |29        |55             |0.3                  (Baik)
+Poli Jiwa           |29        |58             |0.4                  (Baik)
+Poli Gigi           |31        |50             |0.4                  (Baik)
+Poli Anak           |28        |65             |0.5                  (Baik)
+Poli Kulit          |30        |52             |0.1                  (Baik)
+Poli Jantung        |31        |55             |0.3                  (Baik)
+Poli Saraf          |30        |56             |0.4                  (Baik)
+Poli Dalam          |30        |60             |0.3                  (Baik)
+Poli Mata           |31        |58             |0.4                  (Baik)
+
+Informasi Lingkungan di Parkiran:
+Suhu: 32 C
+Kelembapan: 50 %
+Kualitas Udara: 0.8 (Tidak Baik)
+Informasi Lingkungan di Ruang Tunggu:
+Suhu: 31 C
+Kelembapan: 60 %
+Kualitas Udara: 0.6 (Tidak Baik)

@@ -1,0 +1,21 @@
+Survey Name: Fasilitas Rumah Sakit
+Q1: Sejauh mana Anda merasa fasilitas parkir di rumah sakit memadai dan mudah diakses?
+A: 7
+Q2: Bagaimana pendapat Anda tentang kenyamanan dan kebersihan ruang tunggu di rumah sakit?
+A: 
+Q3: Apakah Anda puas dengan ketersediaan fasilitas toilet di rumah sakit?
+A: 
+Q4: Sejauh mana fasilitas kafetaria/restoran di rumah sakit memenuhi kebutuhan Anda?
+A: 
+Q5: Bagaimana pendapat Anda tentang ketersediaan ruang keluarga atau area istirahat bagi pasien dan keluarga?
+A: 
+Q6: Apakah fasilitas komunikasi seperti telepon dan Wi-Fi tersedia dengan baik di rumah sakit?
+A: 
+Q7: Bagaimana pengalaman Anda dengan ketersediaan fasilitas penyimpanan barang pribadi Anda di rumah sakit?
+A: 
+Q8: Sejauh mana Anda merasa bahwa fasilitas transportasi seperti taksi atau transportasi publik tersedia dengan baik di sekitar rumah sakit?
+A: 
+Q9: Apakah Anda merasa bahwa fasilitas rumah sakit memiliki petunjuk yang jelas dan peta untuk membantu pasien dan pengunjung?
+A: 
+Q10: Bagaimana pendapat Anda tentang aksesibilitas fasilitas rumah sakit untuk orang dengan kebutuhan khusus, seperti kursi roda?
+A: 
